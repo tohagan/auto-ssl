@@ -1,0 +1,6 @@
+/node_modules
+/certs
+.gitignore
+.gitattributes
+.dockerignore
+README.md
